@@ -8,6 +8,11 @@
 <body>
 <p class="text-justify"></p><h3>C-DAC Revival : A traditional disaster recovery software solution</h3>
 <h4>Brief Description:</h4><p></p>
+
+
+<body>
+<p class="text-justify"></p><h3>C-DAC Revival : A traditional disaster recovery software solution</h3>
+<h4>Brief Description:</h4><p></p>
 <p class="text-justify">
 <!--<a href="/index.aspx?id= " class="feedback" title="Growth Model"><img width="200" height="166" src="/index.aspx?id= " alt="Focus Areas" class="img-responsive" hspace="5" align="right" /></a>-->
 C-DAC Revival is an end to end DR solution, best suited for database intensive e-Gov and Business applications. C-DAC Revival makes use of synchronous and semi-synchronous replication to achieve optimal business continuity with zero recovery point objective (RPO) and negligible recovery time objective (RTO).It uses iSCSI over TCP/IP to provide block replication at remote site. It is interoperable with legacy hardware systems including SAN boxes and works very well with database based applications. C-DAC Revival can be used to manage planned and unplanned outage, enabling 24x7 data availability. With this business can provide long term continuity and availability, performance, productivity and customer satisfaction.</p>
