@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0050)file:///C:/Users/Gajanan/Desktop/eBastaUpdate.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>C-DAC Revival : A traditional disaster recovery software solution</title>
+</head>
+
+<body>
+<p class="text-justify"></p><h3>C-DAC Revival : A traditional disaster recovery software solution</h3>
+<h4>Brief Description:</h4><p></p>
+<p class="text-justify">
+<!--<a href="/index.aspx?id= " class="feedback" title="Growth Model"><img width="200" height="166" src="/index.aspx?id= " alt="Focus Areas" class="img-responsive" hspace="5" align="right" /></a>-->
+C-DAC Revival is an end to end DR solution, best suited for database intensive e-Gov and Business applications. C-DAC Revival makes use of synchronous and semi-synchronous replication to achieve optimal business continuity with zero recovery point objective (RPO) and negligible recovery time objective (RTO).It uses iSCSI over TCP/IP to provide block replication at remote site. It is interoperable with legacy hardware systems including SAN boxes and works very well with database based applications. C-DAC Revival can be used to manage planned and unplanned outage, enabling 24x7 data availability. With this business can provide long term continuity and availability, performance, productivity and customer satisfaction.</p>
+<p class="text-justify">
+C-DAC Revival product ranges are :</p>
+
+<p class="text-justify">
+ ● C-DAC Revival Sync: Real-time synchronous block replication over IP network from C-DAC Revival DC to C-DAC Revival DR located within 50 km to provide zero recovery point objective.</p>
+ <p class="text-justify">
+ ● C-DAC Revival Semi-sync : Real-time semi-synchronous block replication over IP network from C-DAC Revival DC to C-DAC Revival DR over WAN distances and provides negligible recovery point objective bounded by network delay.</p>
+ <p class="text-justify">
+ ● C-DAC Revival Optimal DR : Combination of synchronous and semi-synchronous block replication over IP network with three tier architecture to provide zero recovery point objective over WAN.</p>
+
+
+<h4>Main uses and domain : </h4>
+<ul>
+<li class="text-justify"><b>e-Government application</b></li><b>
+<li class="text-justify"><b>Small and Medium Business (SMB) Applications</b></li><b>
+<li class="text-justify"><b>Data Centres </b></li><b>
+</b></b></b></ul><b><b><b>
+
+<h4>Features and Technical Specifications:</h4>
+<ul>
+<li class="text-justify">C-DAC DR solution uses a patented (filed) , award winning and indigenously developed replication technology.</li>
+<li class="text-justify">Supports Disaster Recovery for widely used databases such as Oracle, PostgreSQL, MSSQL, MySQL and Sybase.</li>
+<li class="text-justify">Supports both forward (from Primary site to secondary site) and reverse(from secondary site to primary site) replication.</li>
+<li class="test-justify">Ensures zero RPO and negligible RTO with its three site architecture of replication solution and online replication and recovery of database data.</li>
+<li class="test-justify">Provides ordered data delivery of write operations.</li>
+<li class="test-justify">Efficient network utilization using WAN optimization.</li>
+<li class="test-justify">Eliminates vendor lock-in as C-DAC DR solution is inter-operable with VMWare, OpenStack and Microsoft cloud.</li>
+</ul>
+
+<h4>C-DAC Revival Product Details </h4>
+<table width="100%" border="0">
+<tbody><tr><th></th>
+<th>&nbsp; C-DAC Revival Sync</th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C-DAC Revival Semi-Sync</th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C-DAC Revival Optimal-DR</th></tr>
+<tr><td><ul><li>Replication Type </li>
+<li>Replication support</li>
+<li>Architecture Type</li>
+<li>Maximum recommended distance</li>
+<li>RPO</li>
+<li>RTO</li>
+<li>Failover</li>
+<li>Data consistency at remote site</li>
+<li>WAN optimization</li>
+<li>Application /database interaction</li></ul></td>
+<td> <ul><li>Synchronous
+
+</li>
+<li>Two way (Forward  and Reverse) </li>
+<li>2 site with two Revival agents at respective site (Revival DC and Revival DR) </li>
+<li> 50 Kilometers </li>
+<li>Zero</li>
+<li>Negligible: Bounded by network latency </li>
+<li>Fully Automated using CDAC DRM</li>
+<li>Fully Automated using CDAC DRM</li>
+<li>Maintains data consistency at both sites </li>
+<li>N/A</li>
+<li>Using iSCSI device drivers </li></ul></td>
+<td> <ul><li>Semi-Synchronous</li>
+<li>Two way (Forward and Reverse) </li>
+<li>2 site with two Revival agents at respective site (Revival DC and Revival DR)  </li>
+<li> Unlimited </li> 
+<li> Negligible (Depends upon network latency and data rate)  </li>
+<li>Negligible: Bounded by network latency </li>
+<li> Fully Automated using CDAC DRM </li>
+<li> Fully Automated using CDAC DRM </li>
+<li> Data consistency depends on network latency and data rate </li>
+<li> Data compression / recompression technique is used  </li>
+<li> Using iSCSI device drivers </li></ul></td>
+<td><ul><li>Combination of synchronous and Semi-Synchronous with re-compression technique </li>
+<li>Two way (Forward and Reverse)  </li>
+<li>3 site with three Revival agents at respective site (Revival DC , Revival SA and Revival DR)  </li>
+<li>Unlimited</li>
+<li>Zero</li>
+<li>Negligible: Bounded by network latency </li>
+<li>Fully Automated using CDAC DRM</li>
+<li>Fully Automated using CDAC DRM</li>
+<li>Maintains data consistency at all sites</li>
+<li>Data compression / recompression technique is used</li>
+<li>Using iSCSI device drivers</li></ul></td>
+</tr></tbody></table>
+<!--<a href="/index.aspx?id=" class="feedback" title="Growth Model"><img width="200" height="166" src="/index.aspx?id=" alt="Focus Areas" class="img-responsive" hspace="5" align="center" /></a>-->
+
+
+
+
+
+
+<h4>Platform required (if any): </h4>
+<ul>
+<li class="text-justify"> Infrastructure for porting DR software solution.</li>
+</ul>
+<h4>Current Status of the System (Deployment/Product Commercialization </h4>
+<ul>
+<li class="text-justify"> Deployment </li>
+</ul>
+
+
+
+<h4>Contact Details for Techno Commercial Information </h4>
+<ul>
+<li class="text-justify"> 
+ Pricing depends on type of License - Annual License or One time License. Both licenses are inclusive of Technical support and major/minor version upgrades.
+ </li>
+</ul>
+
+<h4>Contact Details:</h4><p class="text-justify"><br>Email: cnie[at]cdac[dot]in <br></p>
+<br><h4>Contact Person:</h4><p class="test-justify"> Ms. Shreya Bokare, +91-22-2756 5303 Ext: 241 <br><br></p><p class="test-justify"> Ms. Shivraj Dongawe, +91-22-2756 5303 Ext: 242 <br></p>  
+ 
+ 
+
+
+</b></b></b></body></html>
